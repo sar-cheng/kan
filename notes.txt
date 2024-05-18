@@ -1,1 +1,12 @@
+Stage 1: introduction to internship and learnings, explorations for how I can learn
+Strategy – Excel copy paste
+Banks – SmartBuzz broke! Meeting. Fixed VBA (little joys of being able to contribute with my expertise of being able to read code!)
+Stage 2: Applying problem solving and data processing skills:
+Gaming / Media – a taste of Researcher’s job, Visa’s data
+Property – VBA… BIG webscraping project + teaching Python to Adam and Solomon
+Back to Strategy – EQ Dashboard, Tableau Dashboards “Dark Ages of Excel”, CrossDirectorship App
+Consumer – VBA… Webscraping 
+Back to Gaming / Media – another taste of Researcher’s job
+Small Caps – Webscraping 
+Working with Berowne throughout – research in ethical issues around AI, new app for SmartBuzz (+ chocolate Berownie)! Free lunch, NEURAL NETWORKS, “boring task”, research in ML
 
