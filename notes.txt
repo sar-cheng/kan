@@ -1,9 +1,6 @@
-"Hey everyone, thanks for being here today! For those who don’t know me, I’m [Your Name], and I’ve had the amazing opportunity to be a data science intern here at JP Morgan over the past few months.
+A program that combines academics with real work experience across 30+ different degrees
+Focuses on building and developing professionals not just university graduates
+Partners with over 150 Australia’s leading companies
+Connecting students with leading brands, technology giants, financial heavyweights, cutting edge start-ups, sustainability leaders and government.
 
-When I started this internship, I was excited but also a bit nervous. I was diving into the world of equity research—a field that's as challenging as it is fascinating. What I discovered was not just about analyzing numbers, but about leveraging the power of data science to automate processes and drive efficiency.
-
-Today, I want to share with you some of the highlights of my journey. I’ll walk you through the different teams I worked with, the projects I tackled, and the insights I gained along the way. More importantly, I hope to enlighten you on how impactful data science can be in transforming the way we work and make decisions.
-
-This experience has shown me the incredible potential of automated data processes and how they can revolutionize our workflow. And, as a student, being given this opportunity to learn and contribute at such a successful firm has been nothing short of transformative.
-
-So, let’s kick things off with a quick overview of the equity research team. This will give you some context about where I’ve been spending my time and the fantastic people I’ve been collaborating with."
+A Co-op Program scholarship provides industry training, professional development, networking and financial support for selected undergraduate students in the disciplines of Business, Engineering, and Science. Today, it is the largest and most prestigious scholarship program of its type in Australia and a leader in career development learning. There are over 300 current Co-op scholars who join more than 3,500 UNSW Co-op Alumni. The experience and networks our scholars develop enrich their time at university and give them an invaluable head start upon entering the work force.
